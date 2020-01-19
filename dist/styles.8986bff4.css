@@ -1,0 +1,21 @@
+body {
+    background-color: darkblue;
+}
+
+.container-form {
+    background-color: whitesmoke;
+    margin: 50px, 50px, 50px, 50px;
+}
+
+.recipes {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    column-gap: 2rem;
+}
+
+.recipe {
+    border: 1px, solid rgba(0, 0, 0, 0, 0.1)
+}
+
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
